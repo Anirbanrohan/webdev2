@@ -1,1 +1,1 @@
-A simple project
+Rock Paper Scissor Game
